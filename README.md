@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @onurdmr8
-- 👀 I’m interested in all codes
+- 👀 I’m interested Python and SQL
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 onurdmr8/onurdmr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
